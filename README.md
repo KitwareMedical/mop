@@ -1,5 +1,8 @@
 # Multiscale Optimal Transport
 
+> [!WARNING]
+> This repo will remain archived unless development resumes.
+
 An R package implementation of the fast multiscale approach to optimal transport described in:  
 >Multiscale Strategies for Computing Optimal Transport  
 >Samuel Gerber, Mauro Maggioni  
